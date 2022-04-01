@@ -11,4 +11,4 @@ and the link for full data-set: https://data.mendeley.com/datasets/685vgp64sm/1
 
 For the original networks, the line impedance is specified 4x4 matrice without mutual impedance. 
 
-This repository however, contains three-wire and four-wire extensions of the original feeders with and without mutual impedences.
+This repository, contains only two of the original feeders and a new load data created by adding uncertainty in the actual measurement data and very high PV penetration.
