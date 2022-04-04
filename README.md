@@ -1,6 +1,6 @@
 # FNAData
 
-This repository contains two feeders of the Non-synthetic European low voltage test system used for the Flexibility analysis.
+This repository contains one feeders of the Non-synthetic European low voltage test system used for the Flexibility analysis.
  
 ## Original dataset
 
@@ -11,4 +11,4 @@ and the link for full data-set: https://data.mendeley.com/datasets/685vgp64sm/1
 
 For the original networks, the line impedance is specified 4x4 matrice without mutual impedance. 
 
-This repository, contains only two of the original feeders and a new load data created by adding uncertainty in the actual measurement data and very high PV penetration.
+This repository, contains only one of the original feeders and a new load data created by adding uncertainty in the actual measurement data and very high PV penetration.
